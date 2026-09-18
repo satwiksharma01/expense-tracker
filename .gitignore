@@ -1,0 +1,12 @@
+# build output
+out/
+*.class
+expense-tracker.jar
+
+# runtime data and logs (created on first run)
+data/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
