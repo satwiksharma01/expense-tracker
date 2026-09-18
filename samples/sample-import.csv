@@ -1,0 +1,8 @@
+date,amount,category,payment_method,description
+2026-09-01,145,FOOD,UPI,Breakfast at canteen
+2026-09-02,60,TRANSPORT,CASH,Auto to college
+2026-09-03,1299,SHOPPING,CREDIT_CARD,"Running shoes, on sale"
+2026-09-04,abc,FOOD,UPI,This row has an invalid amount
+2026-09-05,350,Entertainment,Debit Card,Movie night
+2026-09-06,220,HEALTH,UPI,Pharmacy
+2026-09-07,90,GROCERIES,UPI,This row has an unknown category
