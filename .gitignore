@@ -6,6 +6,9 @@ expense-tracker.jar
 # runtime data and logs (created on first run)
 data/
 
+# project report drafts (submitted separately on the portal)
+report/
+
 # IDE files
 .idea/
 .vscode/

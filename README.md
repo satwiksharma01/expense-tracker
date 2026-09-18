@@ -80,7 +80,7 @@ Open a new terminal afterwards so `java` and `javac` are on your `PATH`.
 ### 2. Get the code
 
 ```bash
-git clone https://github.com/satwik1708/expense-tracker.git
+git clone https://github.com/satwiksharma01/expense-tracker.git
 cd expense-tracker
 ```
 
