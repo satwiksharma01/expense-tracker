@@ -1,5 +1,7 @@
 # Expense Tracker (Java, command line)
 
+[![CI](https://github.com/satwiksharma01/expense-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/satwiksharma01/expense-tracker/actions/workflows/ci.yml)
+
 A personal finance manager that runs in the terminal. You record your daily expenses. The app then:
 
 - tracks them against monthly budgets and warns you before you overspend
@@ -250,6 +252,10 @@ They use a fixed clock, so results don't depend on the day they are run.
 ```
 
 (The demo data is generated relative to today's date, so your numbers will differ.)
+
+## License
+
+[MIT](LICENSE).
 
 ---
 
