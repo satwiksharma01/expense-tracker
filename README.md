@@ -13,6 +13,8 @@ It is written in plain Java 17 with **no external libraries**, so the only thing
 > Problem statement, scope and target users: [statement.md](statement.md)
 > Architecture, UML diagrams and storage design: [docs/DESIGN.md](docs/DESIGN.md)
 
+Contribution workflow: [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ---
 
 ## Features
